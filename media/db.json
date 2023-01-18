@@ -1,26 +1,68 @@
 {
   "users": [
     {
-      "name": "Elsie Price",
-      "id": 3
+      "id": 1,
+      "name": "Myra"
     },
     {
       "name": "Harold Strosin",
       "id": 4
     },
     {
-      "name": "Scott Davis",
+      "name": "Mr. Juana King",
       "id": 5
     },
     {
-      "name": "Miss Gilberto Reichert",
+      "name": "Homer Lang",
       "id": 6
-    },
-    {
-      "name": "Elisa Lueilwitz",
-      "id": 7
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Fresh Gloves",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Small Metal Sausages",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Metal Chair",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Rubber Shirt",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Practical Steel Mouse",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Steel Mouse",
+      "id": 16
+    },
+    {
+      "userId": 6,
+      "title": "Small Bronze Shirt",
+      "id": 17
+    },
+    {
+      "userId": 6,
+      "title": "Practical Frozen Pizza",
+      "id": 18
+    }
+  ],
   "photos": []
 }
